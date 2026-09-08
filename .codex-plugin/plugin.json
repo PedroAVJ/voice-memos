@@ -1,0 +1,40 @@
+{
+  "name": "voice-memos",
+  "version": "0.7.14",
+  "description": "Read Apple Voice Memos, maintain their on-demand local transcript cache, and run independent question and health-observation workflows.",
+  "author": {
+    "name": "PedroAVJ",
+    "url": "https://github.com/PedroAVJ"
+  },
+  "homepage": "https://github.com/PedroAVJ/voice-memos",
+  "repository": "https://github.com/PedroAVJ/voice-memos",
+  "license": "MIT",
+  "keywords": [
+    "voice-memos",
+    "macos",
+    "transcription",
+    "automation"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Voice Memos",
+    "shortDescription": "Cache and process Voice Memos locally",
+    "longDescription": "Prompt Voice Memos to synchronize through a hidden background launch, read locally materialized recordings by stable UUID, maintain a private Apple-first and ElevenLabs-backed transcript cache, answer captured questions, and discuss health observations against the health record through independent source-owned workflows.",
+    "developerName": "PedroAVJ",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/PedroAVJ/voice-memos",
+    "defaultPrompt": [
+      "Show my cached Voice Memo transcripts",
+      "Answer questions from my new Voice Memos",
+      "Discuss health observations from my new Voice Memos"
+    ],
+    "brandColor": "#111111",
+    "composerIcon": "./assets/voice-memos-icon.svg",
+    "logo": "./assets/voice-memos-icon.svg",
+    "screenshots": []
+  }
+}

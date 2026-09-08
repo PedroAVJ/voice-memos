@@ -1,0 +1,23 @@
+{
+  "name": "voice-memos",
+  "version": "0.7.14",
+  "description": "Read Apple Voice Memos, maintain their on-demand local transcript cache, and run independent question and health-observation workflows.",
+  "author": {
+    "name": "PedroAVJ",
+    "url": "https://github.com/PedroAVJ"
+  },
+  "homepage": "https://github.com/PedroAVJ/voice-memos",
+  "repository": "https://github.com/PedroAVJ/voice-memos",
+  "license": "MIT",
+  "keywords": [
+    "voice-memos",
+    "macos",
+    "transcription",
+    "automation"
+  ],
+  "skills": "./skills/",
+  "dependencies": [
+    "elevenlabs@package-manager",
+    "near@package-manager"
+  ]
+}
