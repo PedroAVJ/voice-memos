@@ -7,7 +7,7 @@ import test from "node:test";
 const root = fileURLToPath(new URL("..", import.meta.url));
 const expected = {
   "name": "voice-memos",
-  "version": "0.7.14",
+  "version": "0.7.15",
   "url": "https://github.com/PedroAVJ/voice-memos",
   "dependencies": [
     "elevenlabs@package-manager",

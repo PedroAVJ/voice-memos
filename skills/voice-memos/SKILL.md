@@ -57,8 +57,6 @@ own bounded source-time window under that skill's authority.
   `voice-memos:discuss-health-observations` in exact-direct mode. That workflow
   discusses first and files the discussion-refined result to the medical record
   only after the user has engaged in the thread.
-- An explicit purchase request may use `amazon:prepare-purchase`; it may prepare
-  only a reversible proposal and never checkout.
 - A uniquely resolved meeting or work session may use
   `toolchain:elicitation` and then `toolchain:analysis` when their own entry
   conditions hold.

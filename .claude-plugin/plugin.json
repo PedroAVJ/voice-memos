@@ -1,6 +1,6 @@
 {
   "name": "voice-memos",
-  "version": "0.7.14",
+  "version": "0.7.15",
   "description": "Read Apple Voice Memos, maintain their on-demand local transcript cache, and run independent question and health-observation workflows.",
   "author": {
     "name": "PedroAVJ",
